@@ -1,0 +1,4 @@
+# Exclude /target  /target
+/target
+# Exclude .class files
+/**/*.class
